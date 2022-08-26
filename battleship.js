@@ -32,7 +32,7 @@ while (!isSunk) {
 }
 
 var stats =
-  "You took " +
+  "It took you " +
   guesses +
   " guesses to sink the battleship, " +
   ". Your shooting accuracy was " +
